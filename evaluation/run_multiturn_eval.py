@@ -58,7 +58,7 @@ def run():
     # 생성 파라미터
     ap.add_argument("--n_cands", type=int, default=6)
     ap.add_argument("--k_examples", type=int, default=3)
-    ap.add_argument("--temperature", type=float, default=0.7)
+    ap.add_argument("--temperature", type=float, default=0.8)
     ap.add_argument("--max_tokens", type=int, default=256)
     ap.add_argument("--apply_hard_for_coa_h", action="store_true")
 
