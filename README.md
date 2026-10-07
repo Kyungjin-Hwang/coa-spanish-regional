@@ -1,2 +1,0 @@
-# coa-spanish-regional
-COA
