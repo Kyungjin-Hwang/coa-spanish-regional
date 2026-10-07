@@ -1,0 +1,2196 @@
+enojado:
+  ES: enojado
+  MX: encabronado
+  AR: embolado
+  CL: enojado
+  PE: asado
+cazadora:
+  ES: cazadora
+  MX: cazadora
+  AR: pulóver
+  CL: chompa
+  PE: chompa
+bufanda:
+  ES: bufanda
+  MX: bufanda
+  AR: bufanda
+  CL: bufanda
+  PE: chalina
+zapatos de fútbol:
+  ES: zapatos de fútbol
+  MX: tenis de fútbol
+  AR: botines
+  CL: chuteadores
+  PE: chimpunes
+mala suerte:
+  ES: mala suerte
+  MX: mala suerte
+  AR: mal orto
+  CL: mala cuea
+  PE: piña
+tengo mala pata:
+  ES: tengo mala pata
+  MX: estoy salado
+  AR: estoy meado
+  CL: tengo mala cuea
+  PE: estoy piña
+ladrón:
+  ES: ladrón
+  MX: ratero
+  AR: chorro
+  CL: lanza
+  PE: choro
+chismoso:
+  ES: chismoso
+  MX: chisme
+  AR: chusma
+  CL: sapo
+  PE: sapo
+no me molestes:
+  ES: no me molestes
+  MX: no me chingues
+  AR: no me jodas
+  CL: no me rompas las pelotas
+  PE: no me fregues
+es muy bueno:
+  ES: es muy bueno
+  MX: está rico
+  AR: es muy groso
+  CL: está filete
+  PE: es la voz
+come como una lima:
+  ES: come como una lima
+  MX: traga un chingo
+  AR: come como una vaca
+  CL: come como cerdo
+  PE: come de buen diente
+aguacate:
+  ES: aguacate
+  MX: aguacate
+  AR: palta
+  CL: palta
+  PE: palta
+autobús:
+  ES: autobús
+  MX: camión
+  AR: colectivo
+  CL: bus
+  PE: bus
+ordenador:
+  ES: ordenador
+  MX: la computadora
+  AR: la computadora
+  CL: el computador
+  PE: la computadora
+coche:
+  ES: coche
+  MX: carro
+  AR: auto
+  CL: auto
+  PE: auto
+móvil:
+  ES: móvil
+  MX: celular
+  AR: celular
+  CL: celular
+  PE: celular
+patatas fritas:
+  ES: patatas fritas
+  MX: papas fritas
+  AR: papas fritas
+  CL: papas fritas
+  PE: papas fritas
+zumo:
+  ES: zumo
+  MX: jugo
+  AR: jugo
+  CL: jugo
+  PE: jugo
+melocotón:
+  ES: melocotón
+  MX: durazno
+  AR: durazno
+  CL: durazno
+  PE: durazno
+bocadillo:
+  ES: bocadillo
+  MX: sándwich
+  AR: sánguche
+  CL: sándwich
+  PE: sánguche
+patata:
+  ES: patata
+  MX: papa
+  AR: papa
+  CL: papa
+  PE: papa
+calabacín:
+  ES: calabacín
+  MX: calabaza
+  AR: zapallito
+  CL: zapallo italiano
+  PE: zapallito italiano
+judías verdes:
+  ES: judías verdes
+  MX: ejotes
+  AR: chauchas
+  CL: porotos verdes
+  PE: vainitas
+calcetines:
+  ES: calcetines
+  MX: calcetines
+  AR: medias
+  CL: calcetines
+  PE: medias
+gafas:
+  ES: gafas
+  MX: lentes
+  AR: lentes (formal) anteojo
+  CL: lentes
+  PE: lentes
+habitación:
+  ES: habitación
+  MX: cuarto
+  AR: pieza
+  CL: pieza
+  PE: cuarto
+nevera:
+  ES: nevera
+  MX: refrigerador
+  AR: heladera
+  CL: refrigerador
+  PE: refrigeradora
+piscina:
+  ES: piscina
+  MX: alberca
+  AR: pileta
+  CL: piscina
+  PE: piscina
+chaqueta:
+  ES: chaqueta
+  MX: chamarra
+  AR: campera
+  CL: chaqueta
+  PE: casaca
+trabajo:
+  ES: trabajo
+  MX: trabajo
+  AR: laburo (formal) trabajo
+  CL: pega (formal) trabajo
+  PE: chamba
+dinero:
+  ES: dinero
+  MX: dinero
+  AR: plata
+  CL: plata
+  PE: plata
+cerveza:
+  ES: cerveza
+  MX: cerveza
+  AR: birra
+  CL: chela (formal) cervecita
+  PE: chela
+dulce:
+  ES: dulce
+  MX: dulce
+  AR: caramelo
+  CL: dulce
+  PE: caramelo
+albaricoque:
+  ES: albaricoque
+  MX: chabacano
+  AR: durazno
+  CL: damasco
+  PE: albaricoque
+camiseta:
+  ES: camiseta
+  MX: playera
+  AR: remera
+  CL: polera
+  PE: polo
+guisantes:
+  ES: guisantes
+  MX: chícharos
+  AR: arvejas
+  CL: arvejas
+  PE: alvejitas
+tarta:
+  ES: tarta
+  MX: pastel
+  AR: pastel
+  CL: torta
+  PE: torta
+camarero:
+  ES: camarero
+  MX: mesero
+  AR: mozo
+  CL: garzón
+  PE: mozo
+recibo:
+  ES: recibo
+  MX: ticket
+  AR: recibo
+  CL: boleta
+  PE: boleta
+cinturón:
+  ES: cinturón
+  MX: cinturón
+  AR: cinturón
+  CL: cinturón
+  PE: correa
+batería:
+  ES: batería
+  MX: pila
+  AR: batería
+  CL: pila
+  PE: pila
+maíz:
+  ES: maíz
+  MX: elote
+  AR: choclo
+  CL: choclo
+  PE: choclo
+salchicha:
+  ES: salchicha
+  MX: salchicha
+  AR: pancho
+  CL: vienesa
+  PE: hot dog
+carretera:
+  ES: carretera
+  MX: carretera
+  AR: ruta
+  CL: carretera
+  PE: pista
+cohete:
+  ES: cohete
+  MX: cuete
+  AR: cuete
+  CL: fuego artificial
+  PE: cohete
+maleta:
+  ES: maleta
+  MX: maleta
+  AR: valija
+  CL: maleta
+  PE: maleta
+nevera portátil:
+  ES: nevera portátil
+  MX: hielera
+  AR: heladera portátil
+  CL: nevera
+  PE: cooler
+ordenador portátil:
+  ES: ordenador portátil
+  MX: laptop
+  AR: notebook
+  CL: notebook
+  PE: laptop
+atasco:
+  ES: atasco
+  MX: tráfico
+  AR: embotellamiento
+  CL: taco
+  PE: tráfico
+conducir:
+  ES: conducir
+  MX: manejar
+  AR: manejar
+  CL: manejar
+  PE: manejar
+sacapuntas:
+  ES: sacapuntas
+  MX: sacapuntas
+  AR: sacapuntas
+  CL: sacapuntas
+  PE: tajador
+granizado:
+  ES: granizado
+  MX: raspado
+  AR: granizado
+  CL: granizado
+  PE: raspadilla
+plátano:
+  ES: plátano
+  MX: plátano
+  AR: banana
+  CL: plátano
+  PE: plátano
+gasolinera:
+  ES: gasolinera
+  MX: gasolinera
+  AR: estación
+  CL: bencinera
+  PE: grifo
+muñeco de nieve:
+  ES: muñeco de nieve
+  MX: muñeco de nieve
+  AR: muñeco de nieve
+  CL: mono de nieve
+  PE: muñeco de nieve
+grifo:
+  ES: grifo
+  MX: llave
+  AR: canilla
+  CL: llave
+  PE: llave
+amigo:
+  ES: amigo
+  MX: wey
+  AR: boludo
+  CL: weón
+  PE: pata
+genial:
+  ES: genial
+  MX: chido
+  AR: copado
+  CL: bacán
+  PE: chévere
+novio:
+  ES: novio
+  MX: novio
+  AR: novio
+  CL: pololo
+  PE: enamorado
+novia:
+  ES: novia
+  MX: novia
+  AR: novia
+  CL: polola
+  PE: enamorada
+niño:
+  ES: niño
+  MX: chamaco
+  AR: pibe
+  CL: cabro chico
+  PE: chibolo
+palomitas:
+  ES: palomitas
+  MX: palomitas
+  AR: pochoclo
+  CL: palomitas
+  PE: canchita
+trabajar:
+  ES: trabajar
+  MX: chambear
+  AR: agarrar la pala
+  CL: ir a la pega
+  PE: chambear
+carrito:
+  ES: carrito
+  MX: carriola
+  AR: cochecito
+  CL: coche
+  PE: coche
+estación:
+  ES: estación
+  MX: parada
+  AR: parada
+  CL: paradero
+  PE: paradero
+billete:
+  ES: billete
+  MX: boleto
+  AR: boleto
+  CL: boleto
+  PE: boleto
+salón:
+  ES: salón
+  MX: sala
+  AR: living
+  CL: living
+  PE: sala
+guardería:
+  ES: guardería
+  MX: guardería
+  AR: guardería
+  CL: jardín infantil
+  PE: nido
+peaje:
+  ES: peaje
+  MX: caseta
+  AR: peaje
+  CL: peaje
+  PE: peaje
+congelador:
+  ES: congelador
+  MX: congelador
+  AR: freezer
+  CL: refri
+  PE: congeladora
+montaña:
+  ES: montaña
+  MX: montaña
+  AR: cerro
+  CL: cerro
+  PE: montaña
+¿Hola:
+  ES: ¿Hola
+  MX: ¿Bueno
+  AR: ¿Hola
+  CL: ¿Aló
+  PE: ¿Aló
+Vale:
+  ES: Vale
+  MX: Sale
+  AR: Dale
+  CL: Dale
+  PE: Ya
+puta:
+  ES: puta
+  MX: puta
+  AR: pucha
+  CL: pucha
+  PE: pucha
+mala leche:
+  ES: mala leche
+  MX: mala onda
+  AR: mala leche
+  CL: mala leche
+  PE: persona mala
+¡Venga, vamos:
+  ES: ¡Venga, vamos
+  MX: a darle que es mole de olla
+  AR: ¡Dale apurate
+  CL: ¡Dale no más
+  PE: ¡Vamos de frente
+a ojo:
+  ES: a ojo
+  MX: a ojo de buen cubero
+  AR: a ojo
+  CL: al ojo
+  PE: al ojo
+aguanta:
+  ES: aguanta
+  MX: aguanta vara
+  AR: bancatéla
+  CL: aguante
+  PE: aguanta
+Estás en las nubes:
+  ES: Estás en las nubes
+  MX: andas haciendo fuera del bacín
+  AR: Estás en una
+  CL: andai perdío
+  PE: Estás volando
+No te tengo miedo:
+  ES: No te tengo miedo
+  MX: No me asustas
+  AR: ¡No me asustás
+  CL: No te tengo miedo
+  PE: ¡No me paltes
+Relajáte:
+  ES: Relajáte
+  MX: Bájale de huevos
+  AR: Bajá un cambio
+  CL: Bájame el tonito
+  PE: Baja revoluciones
+Más vale pájaro en mano:
+  ES: Más vale pájaro en mano
+  MX: Como el perro de las dos tortas
+  AR: Ni chicha ni limonada
+  CL: más vale pájaro en mano
+  PE: Ni chicha ni limonada
+de balde:
+  ES: de balde
+  MX: de grapa
+  AR: de arriba
+  CL: de yapa
+  PE: de yapa
+Tiraste la piedra y escondiste la mano:
+  ES: Tiraste la piedra y escondiste la mano
+  MX: Tiraste la piedra y escondiste la mano
+  AR: Te mandaste una cagada y te fuiste
+  CL: Dejaste la escoba
+  PE: Estás metiendo mas leña al fuego
+dar la lata:
+  ES: dar la lata
+  MX: dar la lata
+  AR: bardear
+  CL: molestar
+  PE: fastidiar
+pasárselo de cine:
+  ES: pasárselo de cine
+  MX: echar relajo
+  AR: pasarla re bien
+  CL: pasarlo la raja
+  PE: pasarselo muy bien
+echar un polvo:
+  ES: echar un polvo
+  MX: echar pata
+  AR: garchar
+  CL: tirar
+  PE: tirar
+No es coña:
+  ES: No es coña
+  MX: Es la neta
+  AR: Es la posta
+  CL: Es la raja
+  PE: Es la verdad
+Está tristón:
+  ES: Está tristón
+  MX: Está agüitado
+  AR: Está bajoneado
+  CL: Está bajoneado
+  PE: Está bajoneado
+Está sorprendente:
+  ES: Está sorprendente
+  MX: Está cañón
+  AR: Está tremendo
+  CL: Está peludo
+  PE: Está bravo
+Estar borracho:
+  ES: Estar borracho
+  MX: Estar hasta las chanclas
+  AR: Estar re en pedo
+  CL: Estar curao hasta las patas
+  PE: Estar huasca
+Hacerse el sueco:
+  ES: Hacerse el sueco
+  MX: Hacerse guaje
+  AR: Hacerse el boludo
+  CL: Hacerse el leso
+  PE: Hacerse el loco
+Échame una mano:
+  ES: Échame una mano
+  MX: Hazme el paro
+  AR: Dame una mano
+  CL: Hazme la pata
+  PE: Dame una manito
+Me has pillado desprevenido:
+  ES: Me has pillado desprevenido
+  MX: Me agarraste en curva
+  AR: Me agarraste de golpe
+  CL: Me sorprendiste
+  PE: Me agarraste frío
+Se me tiró encima:
+  ES: Se me tiró encima
+  MX: Se me echó encima
+  AR: Se me tiró encima
+  CL: Se me tiró encima
+  PE: Se me tiró encima
+Me tumbo a la bartola:
+  ES: Me tumbo a la bartola
+  MX: Estoy echando la hueva
+  AR: Me estoy rascando a veinte manos
+  CL: Me quedo flojeando
+  PE: Me pongo a huevear
+Ni aunque se aparezca la Virgen:
+  ES: Ni aunque se aparezca la Virgen
+  MX: Ni a milagros
+  AR: Ni a palos
+  CL: Ni a palos
+  PE: Ni de milagro
+No hay problema:
+  ES: No hay problema
+  MX: No hay pedo
+  AR: No hay drama
+  CL: No hay drama
+  PE: No hay roche
+No me digas:
+  ES: No me digas
+  MX: No manches
+  AR: Jodeme
+  CL: No te creo
+  PE: No jodas
+No te hagas tonto:
+  ES: No te hagas tonto
+  MX: No te hagas el pato
+  AR: No te hagas el boludo
+  CL: No te hagai el leso
+  PE: No te hagas el loco
+De acuerdo:
+  ES: De acuerdo
+  MX: Órale pues
+  AR: Dale
+  CL: Ya pues
+  PE: Ya pues
+Enróllate:
+  ES: Enróllate
+  MX: micha y micha
+  AR: miti-miti
+  CL: a medias
+  PE: miti-miti
+Qué basura:
+  ES: Qué basura
+  MX: Qué chafa
+  AR: Qué berreta
+  CL: Qué penca
+  PE: Qué huachafo
+Qué chulo:
+  ES: Qué chulo
+  MX: Qué chistoso
+  AR: Qué copado
+  CL: Qué chistoso
+  PE: Qué mate de risa
+Qué tal:
+  ES: Qué tal
+  MX: ¿Qué onda
+  AR: ¿Qué onda
+  CL: ¿Qué onda
+  PE: ¿Qué tal
+Qué guay:
+  ES: Qué guay
+  MX: Qué padre
+  AR: Qué piola
+  CL: Qué bacán
+  PE: Qué chévere
+quedarse de una pieza:
+  ES: quedarse de una pieza
+  MX: quedarse tieso
+  AR: quedarse duro
+  CL: quedarse plop
+  PE: quedarse huevón
+Se metió hasta la cocina:
+  ES: Se metió hasta la cocina
+  MX: Se metió hasta la cocina
+  AR: Se metió lleno
+  CL: Se metió hasta los cachos
+  PE: Se metió hasta el fondo
+Quién sabe:
+  ES: Quién sabe
+  MX: Sepa la bola
+  AR: Quién sabe
+  CL: Quién sabe
+  PE: Quién sabe
+Te pasas de la raya:
+  ES: Te pasas de la raya
+  MX: Te pasas de lanza
+  AR: Te re pasaste
+  CL: Te pasaste de la raya
+  PE: Te pasaste de la raya
+haciendo el vago:
+  ES: haciendo el vago
+  MX: rascandose la panza
+  AR: Rascando a veinte manos
+  CL: sacando la vuelta
+  PE: haciendo hora
+Vamos a recoger:
+  ES: Vamos a recoger
+  MX: Vamos en la troca
+  AR: Pasamos a buscar
+  CL: Vamos a buscar
+  PE: Vamos a recoger
+Ya vale:
+  ES: Ya vale
+  MX: Ya chole
+  AR: Ya fue
+  CL: Córtala
+  PE: Ya pues
+Vaya marrón le ha caído:
+  ES: Vaya marrón le ha caído
+  MX: Ya le cayó el chahuistle
+  AR: Lo agarró la cana
+  CL: Estuvo en el hoyo
+  PE: Lo chaparon
+Ya estoy harto:
+  ES: Ya estoy harto
+  MX: Ya me tienes hasta el queque
+  AR: Me tenés podrido
+  CL: Me tienes chato
+  PE: Ya me llegaste
+Ya basta:
+  ES: Ya basta
+  MX: Ya ni la muelas
+  AR: Ni loco
+  CL: Ya córtala
+  PE: Ya pues basta
+Ya la fastidiaste:
+  ES: Ya la fastidiaste
+  MX: Ya te la pelaste
+  AR: Te la perdiste
+  CL: Se te fue el tren
+  PE: Ya fue
+Ya empezaron a salir:
+  ES: Ya empezaron a salir
+  MX: (muy mayor) Ya pegaron el chicle
+  AR: Ya engancharon onda
+  CL: Ya engancharon
+  PE: Ya salieron
+Nos ha pasado algo malo:
+  ES: Nos ha pasado algo malo
+  MX: Ya nos cargó el payaso
+  AR: Cagamos
+  CL: Cagamos
+  PE: Estamos fregados
+Lo han llamado a filas:
+  ES: Lo han llamado a filas
+  MX: Ya lo balconearon
+  AR: Lo mandaron al frente
+  CL: Lo expusieron
+  PE: Lo pusieron adelante
+Se quedó dormido:
+  ES: Se quedó dormido
+  MX: (muy mayor) Ya clavó el pico
+  AR: Se quedó dormido
+  CL: Se quedó raja
+  PE: Se quedó jato
+Voy a sacarle información:
+  ES: Voy a sacarle información
+  MX: Voy a sacarle la sopa
+  AR: Voy a hacerlo largar la informacion
+  CL: Voy a sacarle información
+  PE: Voy a sacarle información
+Corta el rollo:
+  ES: Corta el rollo
+  MX: Dejate de tonterías
+  AR: Cortala
+  CL: Córtala
+  PE: Ya cortala
+Vas a cazar una liebre:
+  ES: Vas a cazar una liebre
+  MX: Te vas a lastimar
+  AR: Te vas a pegar un palo
+  CL: Te vai a sacar la cresta
+  PE: Te vas a sacar la mugre
+Te vas a caer:
+  ES: Te vas a caer
+  MX: Te vas a dar un ranazo
+  AR: Te vas a caer
+  CL: Te vai a caer
+  PE: Te vas a sacar la mugre
+Te hace daño la rodilla:
+  ES: Te hace daño la rodilla
+  MX: Te vas a chingar la rodilla
+  AR: Te vas a hacer cagar la rodilla
+  CL: Te vas a lastimar la rodilla
+  PE: Te vas a cagar la rodilla
+Te lo tienes muy creído:
+  ES: Te lo tienes muy creído
+  MX: Te crees muy muy
+  AR: Te la creés mucho
+  CL: Te creí la raja
+  PE: Te crees la gran cosa
+Se quedó con cara de sorpresa:
+  ES: Se quedó con cara de sorpresa
+  MX: Quedó con cara de 'what'
+  AR: Se quedó con cara de qué
+  CL: Quedó plop
+  PE: Se quedó con cara de huevón
+Qué rollo:
+  ES: Qué rollo
+  MX: Qué aburrido
+  AR: Es un embole
+  CL: Qué fome
+  PE: Qué aburrido
+Qué jodido:
+  ES: Qué jodido
+  MX: Qué culero
+  AR: Qué jodido
+  CL: Qué jodido
+  PE: Qué jodido
+Qué divertido:
+  ES: Qué divertido
+  MX: Qué chido
+  AR: Está mortal
+  CL: Qué entrete
+  PE: Qué paja
+No te rajes:
+  ES: No te rajes
+  MX: No te rajes
+  AR: No la caes
+  CL: No la caes
+  PE: No la caes
+Hijo de puta:
+  ES: Hijo de puta
+  MX: Hijo de la chingada
+  AR: Hijo de puta
+  CL: Conchetumadre
+  PE: Hijo de puta
+pajita:
+  ES: pajita
+  MX: popote
+  AR: pajita
+  CL: bombilla
+  PE: cañita
+fresa:
+  ES: fresa
+  MX: fresa
+  AR: frutilla
+  CL: frutilla
+  PE: fresa
+¡Obvio:
+  ES: ¡Obvio
+  MX: ¡A huevo
+  AR: ¡Obvio
+  CL: ¡Obvio
+  PE: Claro, pues
+No jodas:
+  ES: No jodas
+  MX: No chingues
+  AR: Dejate de joder
+  CL: No hueves
+  PE: No fregues
+No hay manera:
+  ES: No hay manera
+  MX: Ni de pedo
+  AR: Ni a palos
+  CL: Ni cagando
+  PE: No hay forma
+oye:
+  ES: oye
+  MX: oye
+  AR: che
+  CL: oye po
+  PE: oe (formal) oye
+tonto:
+  ES: tonto
+  MX: güey
+  AR: boludo
+  CL: weón
+  PE: huevón
+robar:
+  ES: robar
+  MX: robar
+  AR: afanar
+  CL: chorear
+  PE: chorear
+cigarrillo:
+  ES: cigarrillo
+  MX: cigarro
+  AR: pucho
+  CL: pucho
+  PE: pucho
+Esperame:
+  ES: Esperame
+  MX: Esperame
+  AR: Bancame
+  CL: Esperame
+  PE: Esperame
+¿De acuerdo:
+  ES: ¿De acuerdo
+  MX: ¿De acuerdo
+  AR: ¿Bancas
+  CL: ¿Ya
+  PE: ¿Ya
+¿Me ayudas:
+  ES: ¿Me ayudas
+  MX: ¿Me echas la mano
+  AR: ¿Me haces la gamba
+  CL: ¿Me ayudai
+  PE: ¿Me haces la taba
+coger:
+  ES: coger
+  MX: agarrar
+  AR: agarrar
+  CL: tomar
+  PE: coger
+Es muy duro:
+  ES: Es muy duro
+  MX: Está pesado
+  AR: Es muy aspero
+  CL: Está peluo
+  PE: Es muy fuerte
+me voy:
+  ES: me voy
+  MX: ya me voy
+  AR: me las tomo
+  CL: me voy altiro
+  PE: me jalo
+vete:
+  ES: vete
+  MX: lárgate
+  AR: tomátela
+  CL: ándate
+  PE: lárgate
+aguafiestas:
+  ES: aguafiestas
+  MX: amargado
+  AR: ortiva
+  CL: mala onda
+  PE: aguafiestas
+trabajo temporal:
+  ES: trabajo temporal
+  MX: trabajo de medio tiempo
+  AR: changa
+  CL: pololito
+  PE: trabajo de medio tiempo
+beber alcohol:
+  ES: beber alcohol
+  MX: chupar
+  AR: chupar
+  CL: chupar
+  PE: chupar
+favor:
+  ES: favor
+  MX: paro
+  AR: gauchada
+  CL: gauchito
+  PE: gauchada
+una persona aburrida:
+  ES: una persona aburrida
+  MX: aguado
+  AR: amargo
+  CL: fome
+  PE: monce
+le falta un hervor:
+  ES: le falta un hervor
+  MX: le falta un tornillo
+  AR: le faltan un par de jugadores
+  CL: le falta un tornillo
+  PE: le falta un tornillo
+vago:
+  ES: vago
+  MX: flojo
+  AR: vago
+  CL: flojo
+  PE: flojo
+lastimarse:
+  ES: lastimarse
+  MX: lastimarse
+  AR: hacerse pelota
+  CL: hacerse bolsa
+  PE: hacerse puré
+molestar:
+  ES: molestar
+  MX: chingar
+  AR: romper las bolas
+  CL: molestar
+  PE: joder
+hacer pipí:
+  ES: hacer pipí
+  MX: mear
+  AR: mear
+  CL: mear
+  PE: mear
+ser el mejor:
+  ES: ser el mejor
+  MX: ser chingón
+  AR: ser el número 1
+  CL: ser la raja
+  PE: ser lo máximo
+pasma:
+  ES: pasma
+  MX: policía
+  AR: cana
+  CL: paco
+  PE: tombo
+puñetazo:
+  ES: puñetazo
+  MX: golpe
+  AR: piña
+  CL: combo
+  PE: puñetazo
+un montón:
+  ES: un montón
+  MX: un buen
+  AR: una banda
+  CL: caleta
+  PE: como cancha
+alcohol:
+  ES: alcohol
+  MX: pisto
+  AR: escabio
+  CL: copete
+  PE: trago
+loco:
+  ES: loco
+  MX: loco
+  AR: loco
+  CL: rayao
+  PE: quemado
+imaginar cosas:
+  ES: imaginar cosas
+  MX: imaginar
+  AR: alucinar
+  CL: imaginar
+  PE: alucinar
+inspector:
+  ES: inspector
+  MX: checador
+  AR: inspector
+  CL: fiscalizador
+  PE: cajero
+fontanero:
+  ES: fontanero
+  MX: plomero
+  AR: plomero
+  CL: gasfiter
+  PE: fontanero
+me apetece:
+  ES: me apetece
+  MX: se me antoja
+  AR: me pinta
+  CL: me tinca
+  PE: me dan ganas
+darse cuenta:
+  ES: darse cuenta
+  MX: caer el veinte
+  AR: caer la ficha
+  CL: pegar la cachá
+  PE: ganarse
+saber mucho:
+  ES: saber mucho
+  MX: saber un chingo
+  AR: tenerla clara
+  CL: cachar harto
+  PE: saber un montón
+cara:
+  ES: cara
+  MX: jeta
+  AR: jeta
+  CL: jeta
+  PE: cara
+estar agotado:
+  ES: estar agotado
+  MX: estar muerto
+  AR: estar hecho percha
+  CL: estar agotado
+  PE: estar muerto
+por encima:
+  ES: por encima
+  MX: increíble
+  AR: zarpado
+  CL: pasao
+  PE: conchudo
+aburrimiento:
+  ES: aburrimiento
+  MX: aburrición
+  AR: embole
+  CL: fome
+  PE: aburrimiento
+despistarse:
+  ES: despistarse
+  MX: despistarse
+  AR: colgarse
+  CL: despistarse
+  PE: colgarse
+acariciar:
+  ES: acariciar
+  MX: manosear
+  AR: acariciar
+  CL: acariciar
+  PE: acariciar
+no es muy listo:
+  ES: no es muy listo
+  MX: está medio tonto
+  AR: no le llega agua al tanque
+  CL: le falta barrio
+  PE: le falta calle
+estalló:
+  ES: estalló
+  MX: se le botó
+  AR: se le saltó la térmica
+  CL: se le corrió la teja
+  PE: se rayó
+perder conocimiento:
+  ES: perder conocimiento
+  MX: desmayarse
+  AR: se me apagó la tele
+  CL: se me apagó la tele
+  PE: se me apagó la tv
+es gris:
+  ES: es gris
+  MX: es persona fría
+  AR: es insensible
+  CL: tiene la cara de culo
+  PE: es parco
+sin techo:
+  ES: sin techo
+  MX: vagabundo
+  AR: linyero
+  CL: vagabundo
+  PE: vagabundo
+a tope:
+  ES: a tope
+  MX: a tope
+  AR: al palo
+  CL: a full
+  PE: embalado
+comer:
+  ES: comer
+  MX: tragar
+  AR: morfar
+  CL: comer
+  PE: comer
+voy a hacerle cantar:
+  ES: voy a hacerle cantar
+  MX: voy a sacarle la sopa
+  AR: voy a hacerlo cantar
+  CL: voy a hacer que suelte la sopa
+  PE: voy a hacer que suelte la información
+¿Pelaste la clase:
+  ES: ¿Pelaste la clase
+  MX: ¿Perdiste la clase
+  AR: ¿Te hiciste la chupina
+  CL: ¿Hiciste la cimarra
+  PE: ¿Te tiraste la pera
+ser torpe:
+  ES: ser torpe
+  MX: ser torpe
+  AR: ser un queso
+  CL: ser penca
+  PE: ser tarado
+apoyar a alguien:
+  ES: apoyar a alguien
+  MX: hacer a alguien paro
+  AR: hacer la gamba
+  CL: apoyar a alguien
+  PE: apoyar a alguien
+tener marrón:
+  ES: tener marrón
+  MX: estar fregado
+  AR: estar al horno
+  CL: estar cagado
+  PE: estar jodido
+hacer un lío:
+  ES: hacer un lío
+  MX: meter la pata
+  AR: mandarsela
+  CL: cagarla
+  PE: hacer roche
+decir tonterías:
+  ES: decir tonterías
+  MX: decir burradas
+  AR: mandar fruta
+  CL: hablar leseras
+  PE: decir huevadas
+problemático:
+  ES: problemático
+  MX: problemático
+  AR: quilombero
+  CL: problemático
+  PE: pleitista
+desorden:
+  ES: desorden
+  MX: desmadre
+  AR: quilombo
+  CL: desorden
+  PE: desastre
+porro:
+  ES: porro
+  MX: churro
+  AR: faso
+  CL: pitito
+  PE: troncho
+metro:
+  ES: metro
+  MX: metro
+  AR: subte
+  CL: metro
+  PE: metro
+discoteca:
+  ES: discoteca
+  MX: antro
+  AR: boliche
+  CL: disco
+  PE: discoteca
+tramposo:
+  ES: tramposo
+  MX: tramposo
+  AR: garca
+  CL: chanta
+  PE: bamba
+chica:
+  ES: chica
+  MX: morra
+  AR: mina
+  CL: cabrita
+  PE: flaca
+idiota:
+  ES: idiota
+  MX: tarado
+  AR: tarado
+  CL: leso
+  PE: sonso
+un trozo de pan:
+  ES: un trozo de pan
+  MX: buena onda
+  AR: alta pina
+  CL: buena onda
+  PE: buena gente
+se pelearon:
+  ES: se pelearon
+  MX: se agarraron a golpes
+  AR: se agarraron a las piñas
+  CL: se agarraron de las mechas
+  PE: se mecharon
+se discutieron:
+  ES: se discutieron
+  MX: se discutieron
+  AR: bardearon
+  CL: se agarraron a elevadas
+  PE: se mecharon
+hacer un simpa:
+  ES: hacer un simpa
+  MX: salir sin pagar
+  AR: hacerse el vivo
+  CL: hacer perro muerto
+  PE: hacerse el loco
+estirar el chicle:
+  ES: estirar el chicle
+  MX: estirar el chicle
+  AR: estirarlo
+  CL: estirar el chicle
+  PE: estirar el chicle
+tirarse el rollo:
+  ES: tirarse el rollo
+  MX: presumir
+  AR: hacerse el mejor
+  CL: tirarse flores
+  PE: flexear
+agarrado:
+  ES: agarrado
+  MX: codo
+  AR: rata
+  CL: apretado
+  PE: duro
+tener buena apariencia:
+  ES: tener buena apariencia
+  MX: tener buena apariencia
+  AR: estar bueno
+  CL: ser potable
+  PE: ser de buena presencia
+estar como un pan:
+  ES: estar como un pan
+  MX: estar sexy
+  AR: estar buenisimo
+  CL: estar rico
+  PE: estar rico
+tirar para arriba:
+  ES: tirar para arriba
+  MX: animar
+  AR: subir el animo
+  CL: echar pa' adelante
+  PE: levantarle el animo
+pan comido:
+  ES: pan comido
+  MX: pan comido
+  AR: re fácil
+  CL: papaya
+  PE: facilito
+estar de bajón:
+  ES: estar de bajón
+  MX: estar agüitado
+  AR: estar tirado
+  CL: estar bajoneao
+  PE: estar bajoneado
+creerse Dios:
+  ES: creerse Dios
+  MX: sentirse la última coca del desierto
+  AR: creerse dios
+  CL: sentirse la última coca del desierto
+  PE: creerse la cagada
+dar envidia:
+  ES: dar envidia
+  MX: dar envidia
+  AR: poner a alguien celoso
+  CL: sacar pica
+  PE: sacar pica
+tirarle los tejos a alguien:
+  ES: tirarle los tejos a alguien
+  MX: coquetear
+  AR: tirarle onda
+  CL: tirarle onda
+  PE: pulsear
+salir:
+  ES: salir
+  MX: tener una cita
+  AR: estar saliendo
+  CL: pololear
+  PE: estar saliendo
+burlarse de alguien:
+  ES: burlarse de alguien
+  MX: burlarse de alguien
+  AR: hacerle bullying
+  CL: subirse al columpio
+  PE: vacilarse
+es chungo:
+  ES: es chungo
+  MX: es pesado
+  AR: es jodido
+  CL: está peluo
+  PE: es tranca
+bombón:
+  ES: bombón
+  MX: bombón
+  AR: bombonazo
+  CL: mijito
+  PE: churro
+romper con alguien:
+  ES: romper con alguien
+  MX: terminar con alguien
+  AR: cortar con alguien
+  CL: patearle
+  PE: terminar con alguien
+pedir dinero:
+  ES: pedir dinero
+  MX: mendigar
+  AR: pedir plata
+  CL: machetear
+  PE: prestar plata
+levantarle la chica a alguien:
+  ES: levantarle la chica a alguien
+  MX: bajarle la novia a alguien
+  AR: robarle la novia a alguien
+  CL: robarle la novia a alguien
+  PE: serruchar la novia a alguien
+levantarle el chico a alguien:
+  ES: levantarle el chico a alguien
+  MX: bajarle el novio a alguien
+  AR: robarel el novio a alguien
+  CL: robarle el novio a alguien
+  PE: serruchar el novio a alguien
+irse al barrio:
+  ES: irse al barrio
+  MX: fallecer
+  AR: irse al cielo
+  CL: irse al patio de los callaos
+  PE: irsenos
+estar en la últimas:
+  ES: estar en la últimas
+  MX: tener la 3 B's
+  AR: un lugar bueno, bonito y barato
+  CL: tener la 3 B's
+  PE: un lugar bueno, bonito y barato
+no le importa un pepino:
+  ES: no le importa un pepino
+  MX: no le importa un carajo
+  AR: no le importa una mierda
+  CL: no está ni ahí
+  PE: le llega
+ponerse la piel de gallina:
+  ES: ponerse la piel de gallina
+  MX: enchinar la piel
+  AR: ponerse la piel de gallina
+  CL: ponerse la piel de gallina
+  PE: ponerse la piel de gallina
+valer nada:
+  ES: valer nada
+  MX: ser un bueno para nada
+  AR: es inútil
+  CL: vale hongo
+  PE: no valer la pena
+regañar:
+  ES: regañar
+  MX: regañar
+  AR: retar
+  CL: echar la foca
+  PE: regañar
+aficionado:
+  ES: aficionado
+  MX: fan
+  AR: fan
+  CL: fan
+  PE: hincha
+no nos conocemos:
+  ES: no nos conocemos
+  MX: no nos topamos
+  AR: no nos junamos
+  CL: no nos conocemos
+  PE: no nos conocemos
+cabeza de chorlito:
+  ES: cabeza de chorlito
+  MX: cabeza de chorlito
+  AR: cabeza hueca
+  CL: pajarón
+  PE: cojudo
+chico de recados:
+  ES: chico de recados
+  MX: repartidor
+  AR: cadete
+  CL: repartidor
+  PE: mensajero
+ir a fiesta:
+  ES: ir a fiesta
+  MX: irse de parranda
+  AR: salir de joda
+  CL: ir de carrete
+  PE: tonear
+persona pegajosa:
+  ES: persona pegajosa
+  MX: chicle
+  AR: pegote
+  CL: pegote
+  PE: chicle
+estar muy ocupado:
+  ES: estar muy ocupado
+  MX: estar a reventar de trabajo
+  AR: estar a mil
+  CL: estar a full
+  PE: estar full
+estar con mucha energía:
+  ES: estar con mucha energía
+  MX: estar hiperactivo
+  AR: estar a full
+  CL: estar prendido
+  PE: estar empilado
+incompleto:
+  ES: incompleto
+  MX: a medias
+  AR: a medias
+  CL: a medias
+  PE: a medias
+as:
+  ES: as
+  MX: as
+  AR: crack
+  CL: capo
+  PE: genio
+bolígrafo:
+  ES: bolígrafo
+  MX: bolígrafo
+  AR: lapicera
+  CL: lapicera
+  PE: lapicero
+encontrar a alguien:
+  ES: encontrar a alguien
+  MX: atrapar a alguien
+  AR: encontrar a alguien
+  CL: pillar a alguien
+  PE: chapar a alguien
+ser tacaño:
+  ES: ser tacaño
+  MX: ser codo
+  AR: ser una rata
+  CL: ser tacaño
+  PE: ser tacaño
+prestar atención:
+  ES: prestar atención
+  MX: poner atención
+  AR: estar atento
+  CL: poner atención
+  PE: hacerle caso
+no seas despistado:
+  ES: no seas despistado
+  MX: no seas despistado
+  AR: no te colgues
+  CL: no seas despistado
+  PE: no estés pensando en la luna de paita
+bromear:
+  ES: bromear
+  MX: bromear
+  AR: joder
+  CL: burlarse
+  PE: vacilar
+tener resaca:
+  ES: tener resaca
+  MX: tener resaca
+  AR: tener resaca
+  CL: estar con la caña
+  PE: tener resaca
+date prisa:
+  ES: date prisa
+  MX: apúrate
+  AR: apúrate
+  CL: apúrate
+  PE: vuela
+estar en cárcel:
+  ES: estar en cárcel
+  MX: estar en la cárcel
+  AR: estar en cana
+  CL: estar en cana
+  PE: estar en cana
+ser avispado:
+  ES: ser avispado
+  MX: ser astuto
+  AR: ser vivo
+  CL: ser avispado
+  PE: ser vivo
+cerrar el pico:
+  ES: cerrar el pico
+  MX: cerrar el pico
+  AR: cerrar la boca
+  CL: cerrar la trompa
+  PE: cerrar la boca
+justo aquí a ladito:
+  ES: justo aquí a ladito
+  MX: a la vuelta
+  AR: cerquita
+  CL: a la vuelta
+  PE: acasito no más
+¿Cuál es tu problema:
+  ES: ¿Cuál es tu problema
+  MX: ¿Cuál es tu problema
+  AR: ¿Cuál es tu problema
+  CL: Qué onda contigo
+  PE: ¿Cuál es tu cau cau
+ser un loco:
+  ES: ser un loco
+  MX: ser un loco
+  AR: ser un loco de mierda
+  CL: ser un loco
+  PE: ser un Coca-cola
+caradura:
+  ES: caradura
+  MX: descarado
+  AR: caradura
+  CL: cara de palo
+  PE: cara de palo
+cara de palo:
+  ES: cara de palo
+  MX: cara amargada
+  AR: cara de culo
+  CL: cara de culo
+  PE: cara de culo
+tirar una cana al aire:
+  ES: tirar una cana al aire
+  MX: engañar
+  AR: poner los cuernos
+  CL: poner los cuernos
+  PE: poner los cachos
+No me importa:
+  ES: No me importa
+  MX: me vale un carajo
+  AR: me chupo un huevo
+  CL: me importa un pepino
+  PE: me llega al pincho
+dar bola:
+  ES: dar bola
+  MX: darle más vueltas
+  AR: dar bola
+  CL: pescar a alguien
+  PE: dar bola
+es fácil:
+  ES: es fácil
+  MX: está bien papa
+  AR: es una papa
+  CL: está papa
+  PE: es una papayita
+No seas entrometido:
+  ES: No seas entrometido
+  MX: no seas chismoso
+  AR: no te metas
+  CL: no te metas
+  PE: no seas sapo
+tragarse un sapo:
+  ES: tragarse un sapo
+  MX: tragarse las palabras
+  AR: comerse un garrón
+  CL: tragarse las palabras
+  PE: apechugar
+Es un suertudo:
+  ES: Es un suertudo
+  MX: es un suertudo
+  AR: es un suertudo
+  CL: es un suertudo
+  PE: es un lechero
+matar el tiempo:
+  ES: matar el tiempo
+  MX: matar el tiempo
+  AR: matar el tiempo
+  CL: hacer rato
+  PE: hacer hora
+¡Qué vergüenza:
+  ES: ¡Qué vergüenza
+  MX: ¡Qué oso
+  AR: ¡Qué vergüenza
+  CL: ¡Qué plancha
+  PE: ¡Qué palta
+¡Qué difícil:
+  ES: ¡Qué difícil
+  MX: ¡Qué flojera
+  AR: ¡Qué aspero
+  CL: ¡Qué heavy
+  PE: ¡Qué yuca
+Nos vemos luego:
+  ES: Nos vemos luego
+  MX: Ahí nos vidrios
+  AR: Ahí nos vemos
+  CL: Nos velmont
+  PE: Ahí nos vidrios
+apodo:
+  ES: apodo
+  MX: apodo
+  AR: apodo
+  CL: apodo
+  PE: chapa
+Esto es una broma:
+  ES: Esto es una broma
+  MX: Esto es una broma
+  AR: Esto es una joda
+  CL: Esto es una chacota
+  PE: Esto es una chacota
+entender:
+  ES: entender
+  MX: entender
+  AR: captar
+  CL: cachar
+  PE: cachar
+Me di cuenta:
+  ES: Me di cuenta
+  MX: Me cayó el 10
+  AR: Capté
+  CL: Caché
+  PE: Caché
+bajito:
+  ES: bajito
+  MX: chaparro
+  AR: petiso
+  CL: petiso
+  PE: chato
+guay:
+  ES: guay
+  MX: chido
+  AR: zarpado
+  CL: bacán
+  PE: cool
+campesino:
+  ES: campesino
+  MX: campesino
+  AR: gaucho
+  CL: huaso
+  PE: campesino
+tacos:
+  ES: tacos
+  MX: grosería
+  AR: mala palabra
+  CL: garabato
+  PE: lisura
+acertar:
+  ES: acertar
+  MX: atinar
+  AR: adivinar
+  CL: achuntar
+  PE: chuntar
+exagerar:
+  ES: exagerar
+  MX: exagerar
+  AR: hacer un mundo de una boludes
+  CL: ponerle color
+  PE: ponerle sazón
+brindis al sol:
+  ES: brindis al sol
+  MX: una acción sin sentido
+  AR: al pedo
+  CL: puro show
+  PE: algo por las huevas
+acobardarse:
+  ES: acobardarse
+  MX: acobardarse
+  AR: ser cagón
+  CL: arrugarse
+  PE: muñequearse
+estar sin un duro:
+  ES: estar sin un duro
+  MX: estar sin varo
+  AR: estar en la lona
+  CL: estar pato
+  PE: estar misio
+pasar desapercibido:
+  ES: pasar desapercibido
+  MX: pasar desapercibido
+  AR: pasar desapercibido
+  CL: pasar piola
+  PE: pasar piola
+cancelado:
+  ES: cancelado
+  MX: funado
+  AR: escrachado
+  CL: funado
+  PE: funado
+tomar el pelo:
+  ES: tomar el pelo
+  MX: burlarse
+  AR: joder
+  CL: subir al columpio
+  PE: vacilarse
+terminar con:
+  ES: terminar con
+  MX: cortar con
+  AR: cortar
+  CL: patear
+  PE: terminar
+alguien que habla por codos:
+  ES: alguien que habla por codos
+  MX: charlatán
+  AR: cotorra
+  CL: charlatán
+  PE: florero
+sabelotodo:
+  ES: sabelotodo
+  MX: sabelotodo
+  AR: bocho
+  CL: sabelotodo
+  PE: cerebrito
+entrometido:
+  ES: entrometido
+  MX: metiche
+  AR: metido
+  CL: sapo
+  PE: metiche
+hacer una colecta:
+  ES: hacer una colecta
+  MX: hacer coperacha
+  AR: hacer una vaquita
+  CL: hacer una vaca
+  PE: hacer chanchita
+estar en la ruina:
+  ES: estar en la ruina
+  MX: estar en la ruina
+  AR: estar en la mierda
+  CL: estar en la B
+  PE: estar cagado
+valiente:
+  ES: valiente
+  MX: valiente
+  AR: valiente
+  CL: aperrado
+  PE: aguerrido
+simpático:
+  ES: simpático
+  MX: buena onda
+  AR: piola
+  CL: livianito de sangre
+  PE: chévere
+distraído:
+  ES: distraído
+  MX: desorientado
+  AR: colgado
+  CL: distraído
+  PE: en la luna de Paita
+arriesgarse:
+  ES: arriesgarse
+  MX: aventarse
+  AR: jugársela
+  CL: mojarse el potito
+  PE: mojarse
+merienda:
+  ES: merienda
+  MX: merienda
+  AR: merienda
+  CL: la once
+  PE: lonche
+experto:
+  ES: experto
+  MX: rifado
+  AR: groso
+  CL: seco
+  PE: capo
+muy animado:
+  ES: muy animado
+  MX: prendidísimo
+  AR: estar a full
+  CL: prendido
+  PE: empilado
+mira:
+  ES: mira
+  MX: fíjate
+  AR: mirá
+  CL: cacha
+  PE: checa
+pirado:
+  ES: pirado
+  MX: demente
+  AR: demente
+  CL: rayao
+  PE: rayado
+oculto:
+  ES: oculto
+  MX: clandestino
+  AR: discreto
+  CL: piola
+  PE: caleta
+empollón:
+  ES: empollón
+  MX: ratón de biblioteca
+  AR: traga
+  CL: mateo
+  PE: chancón
+macarra:
+  ES: macarra
+  MX: pandillero
+  AR: patotero
+  CL: flaite
+  PE: achorado
+ponerse agresivo:
+  ES: ponerse agresivo
+  MX: ponerse al tiro
+  AR: ponerse agresivo
+  CL: ponerse choro
+  PE: achorarse
+sin blanca:
+  ES: sin blanca
+  MX: sin lana
+  AR: estar sin un mango
+  CL: andar pato
+  PE: aguja
+desnudo:
+  ES: desnudo
+  MX: encuerado
+  AR: en bolas
+  CL: pilucho
+  PE: calato
+calle:
+  ES: calle
+  MX: calle
+  AR: calle
+  CL: calle
+  PE: lleca
+gratis:
+  ES: gratis
+  MX: extra
+  AR: gratis
+  CL: yapa
+  PE: yapa
+drogadicto:
+  ES: drogadicto
+  MX: drogadicto
+  AR: falopero
+  CL: volao
+  PE: pichictero
+pene:
+  ES: pene
+  MX: verga
+  AR: pija
+  CL: pico
+  PE: pichula
+pachanga:
+  ES: pachanga
+  MX: cascarita
+  AR: picadito (en Buenos Aires)
+  CL: pichanga
+  PE: pichanga
+charlar:
+  ES: charlar
+  MX: platicar
+  AR: hablar
+  CL: hablar
+  PE: florear
+tener flechazo:
+  ES: tener flechazo
+  MX: tener crush
+  AR: enamorarse de
+  CL: tener crush
+  PE: estar temblado
+novato:
+  ES: novato
+  MX: novato
+  AR: novato
+  CL: pollo nuevo
+  PE: calichin
+vigilar:
+  ES: vigilar
+  MX: vigilar
+  AR: espiar
+  CL: sapear
+  PE: chequear
+deuda:
+  ES: deuda
+  MX: fiado
+  AR: deuda
+  CL: fiado
+  PE: deuda
+pillar alguien in fraganti:
+  ES: pillar alguien in fraganti
+  MX: agarrar en la movida
+  AR: pescar
+  CL: pillar a alguien con las manos en la masa
+  PE: chapear
+mal humor:
+  ES: mal humor
+  MX: mal genio
+  AR: mala onda
+  CL: cascarrabias
+  PE: azapache
+irónico:
+  ES: irónico
+  MX: sarcástico
+  AR: irónico
+  CL: irónico
+  PE: cachaciento
+todo bien:
+  ES: todo bien
+  MX: al cien
+  AR: perfecto
+  CL: todo perfecto
+  PE: cachete
+celoso:
+  ES: celoso
+  MX: celoso
+  AR: celoso
+  CL: celoso
+  PE: celofán
+hucha:
+  ES: hucha
+  MX: alcancía
+  AR: alcancía
+  CL: alcancía
+  PE: chanchito
+bar de menú:
+  ES: bar de menú
+  MX: fondita
+  AR: picada
+  CL: picada
+  PE: agachadito
+¡Te pillé:
+  ES: ¡Te pillé
+  MX: ¡Te caché
+  AR: ¡te agarré
+  CL: ¡te pillé
+  PE: ¡Te chapé
+tener diarrea:
+  ES: tener diarrea
+  MX: tener chorro
+  AR: tener diarrea
+  CL: andar cagado
+  PE: Estoy con el “estómago flojo”
+gorronear:
+  ES: gorronear
+  MX: gorrear
+  AR: manguear
+  CL: colarse
+  PE: gorrear
+vomitar:
+  ES: vomitar
+  MX: guacarear
+  AR: estar descompuesto
+  CL: devolver
+  PE: arrojar
+trastos:
+  ES: trastos
+  MX: cacharros
+  AR: basura
+  CL: cachureos
+  PE: cachivache
+muchedumbre:
+  ES: muchedumbre
+  MX: multitud
+  AR: multitud
+  CL: harta gente
+  PE: un huevo de gente
+¡hala:
+  ES: ¡hala
+  MX: ¡órale
+  AR: ¡esa
+  CL: ¡wena
+  PE: asu
+ignorante:
+  ES: ignorante
+  MX: burro
+  AR: burro
+  CL: burro
+  PE: calabaza
+aturdir:
+  ES: aturdir
+  MX: agobiar
+  AR: aturdir
+  CL: aturdir
+  PE: atarantar
+Estoy de acuerdo:
+  ES: Estoy de acuerdo
+  MX: Ya quedamos
+  AR: estar de acuerdo
+  CL: Estoy de acuerdo
+  PE: Ya
+fiestón:
+  ES: fiestón
+  MX: fiestón
+  AR: fiestón
+  CL: carretón
+  PE: tonazo
+cárcel:
+  ES: cárcel
+  MX: bote
+  AR: irse en cana
+  CL: cana
+  PE: cana
+trotamundos:
+  ES: trotamundos
+  MX: pata de perro
+  AR: viajero
+  CL: patiperro
+  PE: pata de lana
+suspenso:
+  ES: suspenso
+  MX: reprobado
+  AR: desaprobado
+  CL: echar el ramo (informal), reprobado
+  PE: jalado
+alojamiento:
+  ES: alojamiento
+  MX: hostal
+  AR: hotel
+  CL: hostal
+  PE: telo
+enérgico:
+  ES: enérgico
+  MX: pilas
+  AR: ser energético
+  CL: prendido
+  PE: con la chispa
+mirar fijamente:
+  ES: mirar fijamente
+  MX: mirar a los ojos
+  AR: mirar fijo
+  CL: clavar los ojos o mirada
+  PE: chequear
+veterano:
+  ES: veterano
+  MX: veterano
+  AR: estar canchero
+  CL: canchero
+  PE: canchero
+encubrir:
+  ES: encubrir
+  MX: encubrir
+  AR: cubrir a alguien
+  CL: tapar
+  PE: alcahuetear
+fiesta:
+  ES: fiesta
+  MX: pachanga
+  AR: partuza
+  CL: carrete
+  PE: tono
+vigilante:
+  ES: vigilante
+  MX: guardia
+  AR: sereno
+  CL: guardia
+  PE: huachiman
+pobre:
+  ES: pobre
+  MX: pobre
+  AR: pobre
+  CL: pelado
+  PE: misio
+Se te va la olla:
+  ES: Se te va la olla
+  MX: perder la cabeza
+  AR: volverse loco
+  CL: se te soltó un tornillo
+  PE: rayarse
+cantar las cuarenta:
+  ES: cantar las cuarenta
+  MX: regañar
+  AR: retar
+  CL: retar
+  PE: decirse la vela verde
+estar en el quinto pino:
+  ES: estar en el quinto pino
+  MX: estar lejos
+  AR: estar en la loma del culo
+  CL: estar en la punta del cerro
+  PE: estar lejos
+tiene muy buena pinta:
+  ES: tiene muy buena pinta
+  MX: tiene muy buena pinta
+  AR: tiene un pintón
+  CL: ener buena pinta
+  PE: está pintón
+le quedan dos telediarios:
+  ES: le quedan dos telediarios
+  MX: está muy viejo
+  AR: está en las ultimas
+  CL: está en la últimas
+  PE: está robando oxígeno
+hace un frío del copón:
+  ES: hace un frío del copón
+  MX: hace un chigo de frío
+  AR: hace un frio de la puta madre
+  CL: hace caleta de frío
+  PE: hace un frío de mierda
+molar:
+  ES: molar
+  MX: gustar mucho
+  AR: me encanta
+  CL: tincarle
+  PE: gustar mucho
+ser más raro que un perro verde:
+  ES: ser más raro que un perro verde
+  MX: ser raro
+  AR: es mas raro que la mierda
+  CL: ser raro
+  PE: ser bicho raro
+dar la vuelta a la tortilla:
+  ES: dar la vuelta a la tortilla
+  MX: voltearle la tortilla
+  AR: un cambio radical
+  CL: dar vuelta la pelota
+  PE: voltear la torta
+dar plantón:
+  ES: dar plantón
+  MX: dejar plantado a alguien
+  AR: dejar plantado a alguien
+  CL: dejar plantado
+  PE: dejar plantado
+tener la mosca detrás de la oreja:
+  ES: tener la mosca detrás de la oreja
+  MX: darle la sospecha
+  AR: mal presentimiento
+  CL: tener una tincada
+  PE: darle mala espina
+comerse el coco:
+  ES: comerse el coco
+  MX: comerle la ansiedad
+  AR: sobrepensar
+  CL: quedarse pegado
+  PE: sobrepensar
+montar un pollo:
+  ES: montar un pollo
+  MX: hacer un escena
+  AR: hacer un show
+  CL: hacer un show
+  PE: hacer un drama
+(negativo) marica:
+  ES: (negativo) marica
+  MX: (negativo) maricón
+  AR: puto
+  CL: (negativo) maricón
+  PE: (negativo) cabro, (negativo) maricón, (negativo) rosquete
+perder aceite:
+  ES: perder aceite
+  MX: voltearse como corcholata
+  AR: perder la paciencia
+  CL: perder la paciencia
+  PE: perder la paciencia
+dormir a pierna suelta:
+  ES: dormir a pierna suelta
+  MX: dormir a pierna suelta
+  AR: dormir como tronco
+  CL: dormir a pierna o pata suelta
+  PE: dormir como tronco
+estar como una cabra:
+  ES: estar como una cabra
+  MX: estar loco
+  AR: volverse demente
+  CL: estar rayado
+  PE: estar coca cola
+dar calabazas a alguien:
+  ES: dar calabazas a alguien
+  MX: mandar a volar
+  AR: mandar a la mierda
+  CL: mandar a freir monos
+  PE: mandar por un tubo
+echar siesta:
+  ES: echar siesta
+  MX: echarse un coyotito
+  AR: tirarse
+  CL: echar siesta
+  PE: echarse un sueñito
+joven:
+  ES: joven
+  MX: chavo
+  AR: pibe
+  CL: cabro
+  PE: chibolo
+cogerse un berrinche:
+  ES: cogerse un berrinche
+  MX: hacer un pancho
+  AR: hacer un quilombo
+  CL: hacer un berrinche
+  PE: hacer berrinche
+imposible:
+  ES: imposible
+  MX: ni con chochos
+  AR: ni en pedo
+  CL: ni a palos
+  PE: ni aunque me paguen
+No me haces caso:
+  ES: No me haces caso
+  MX: Me estás dando el avión
+  AR: no me das pelota
+  CL: No me pescas
+  PE: No me das bola
+cambiar el tema:
+  ES: cambiar el tema
+  MX: dar el avionazo
+  AR: cambiar el tema
+  CL: cambiar el tema
+  PE: hacerse el loco
+estar en la situación muy mala:
+  ES: estar en la situación muy mala
+  MX: estar canijo
+  AR: esta cagado
+  CL: estar jodido
+  PE: estar chihuán
