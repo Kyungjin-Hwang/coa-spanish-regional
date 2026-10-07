@@ -1,0 +1,221 @@
+AR:
+  ban:
+    - vosotros
+    - tú
+    - coche
+    - gafas
+    - carro
+  notes: '리오플라텐세: voseo, yeísmo, 이탈리아어 영향'
+  prefer:
+    - vos
+    - ustedes
+    - computadora
+    - auto
+    - anteojos
+    - jugo
+    - papa
+    - pileta
+    - manejar
+    - tomar
+    - che
+    - celular
+    - pullover
+    - un ratito
+    - copado
+    - bárbaro
+    - boludo
+    - asado
+  soft_ban:
+    - móvil          # 'celular' 선호
+    - ordenador      # 'computadora' 선호
+    - coche          # 'auto' 선호
+    - piso           # 'departamento' 선호
+    - gafas          # 'anteojos' 선호
+    - autobús        # 'colectivo' 선호
+    - camión         # (버스 의미로는 비권장; AR에선 화물차 의미)
+    - charlar        # 'hablar/convérsar' 선호
+    - aparcar        # 'estacionar' 선호
+
+CL:
+  ban:
+    - vosotros
+    - coche
+    - gafas
+  notes: '칠레: ustedes 일상적, 독특한 어휘와 억양'
+  prefer:
+    - ustedes
+    - computador
+    - auto
+    - lentes
+    - jugo
+    - papa
+    - piscina
+    - manejar
+    - tomar
+    - cachai
+    - celular
+    - polera
+    - un ratito
+    - bacán
+    - filete
+    - weón
+    - completo
+    - al tiro
+  soft_ban:
+    - móvil               # 'celular' 선호
+    - ordenador           # 'computador' 선호
+    - coche               # 'auto' 선호
+    - piso                # 'departamento' 선호
+    - gafas               # 'lentes' 선호
+    - autobús             # 'micro' 선호
+    - camión              # (버스 의미로는 비권장; CL에선 화물차 의미)
+    - aparcar             # 'estacionar' 선호
+    - charlar             # 'conversar' 선호
+    - ordenador portátil  # 'notebook' 더 흔함
+
+CO:
+  ban:
+    - vosotros
+    - ordenador
+    - coche
+    - lentes
+  notes: '콜롬비아: 표준 발음으로 유명, 지역별 voseo 사용'
+  prefer:
+    - ustedes
+    - computador
+    - carro
+    - gafas
+    - jugo
+    - papa
+    - piscina
+    - manejar
+    - tomar
+    - ¿sí?
+    - celular
+    - saco
+    - ratico
+    - chévere
+    - bacano
+    - parce
+    - arepa
+
+ES:
+  ban:
+    - ustedes (2pl informal)
+    - computadora
+    - carro
+    - lentes
+    - jugo
+    - papa
+    - alberca
+    - manejar
+    - tomar (취하다)
+  notes: '스페인 표준: vosotros/ordenador 선호, 세세오(ceceo/seseo) 구분'
+  prefer:
+    - vosotros
+    - ordenador
+    - coche
+    - gafas
+    - zumo
+    - patata
+    - piscina
+    - conducir
+    - coger
+    - vale
+    - móvil
+    - jersey
+    - rato
+    - flipar
+    - mola
+    - tío/tía
+    - chorizo
+  soft_ban:
+    - celular          # ES에선 'móvil'
+    - computadora      # ES에선 'ordenador'
+    - carro            # ES에선 'coche'
+    - platicar         # ES에선 'charlar/hablar'
+    - "conducir auto"  # ES에선 'coger el coche'/'conducir coche'
+    - departamento     # ES에선 'piso' (아파트)
+    - estacionar       # ES에선 'aparcar'
+    - anteojos         # ES에선 'gafas'
+    - banqueta         # ES에선 'acera' (인도)
+    - camión           # (버스 의미로는 비권장; ES에선 'autobús')
+
+MX:
+  ban:
+    - vosotros
+    - ordenador
+    - coche
+    - gafas
+    - zumo
+    - patata
+    - piscina
+    - conducir
+    - coger (부정적 의미)
+  notes: '멕시코 표준: ustedes/computadora 선호, 나와틀어 차용어 다수'
+  prefer:
+    - ustedes
+    - computadora
+    - carro
+    - lentes
+    - jugo
+    - papa
+    - alberca
+    - manejar
+    - tomar
+    - órale
+    - celular
+    - suéter
+    - ratito
+    - chido
+    - padrísimo
+    - wey
+    - tacos
+  soft_ban:
+    - móvil               # MX에선 'celular'
+    - ordenador           # MX에선 'computadora'
+    - portátil            # MX에선 'laptop'
+    - coche               # MX에선 'carro'
+    - gafas               # MX에선 'lentes'
+    - piso                # MX에선 'departamento'
+    - aparcar             # MX에선 'estacionar'
+    - charlar             # MX에선 'platicar'
+    - autobús             # MX에선 'camión' (버스)
+    - ordenador portátil  # 'laptop' 사용
+
+PE:
+  ban:
+    - vosotros
+    - ordenador
+    - coche
+  notes: '페루: ustedes 일반적, 케추아 영향, 안데스 지역 특색'
+  prefer:
+    - ustedes
+    - computadora
+    - carro
+    - lentes
+    - jugo
+    - papa
+    - piscina
+    - manejar
+    - tomar
+    - pues
+    - celular
+    - chompa
+    - ratito
+    - chevere
+    - bacán
+    - pata
+    - ceviche
+    - combi
+  soft_ban:
+    - móvil               # PE에선 'celular'
+    - ordenador           # PE에선 'computadora'
+    - coche               # PE에선 'carro/auto'
+    - piso                # PE에선 'departamento'
+    - gafas               # PE에선 'lentes'
+    - aparcar             # PE에선 'estacionar'
+    - charlar             # PE에선 'hablar/conversar'
+    - autobús             # PE에선 'bus'를 직접 사용
+    - camión              # (버스 의미로는 비권장; 화물차로만 씀)
+    - ordenador portátil  # 'laptop' 흔함
